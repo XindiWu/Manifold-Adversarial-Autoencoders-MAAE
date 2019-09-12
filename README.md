@@ -1,1 +1,1 @@
-# Manifold-Adversarial-Autoencoders-MAAE-
+# Manifold Adversarial Autoencoders (MAAE)
